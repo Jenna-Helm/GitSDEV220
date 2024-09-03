@@ -2,6 +2,8 @@
 # File Name: M02Lab.py
 # Description: This application will use a student's name inputted and GPA using a decimal float in order to identify if they make Dean's List or Honor Roll.
 
+# Repository: https://github.com/Jenna-Helm/GitSDEV220
+
 #Create a loop that is only cancelled when ZZZ is typed
 while True:
    last_name = input("Enter the student's Last Name. To quit, enter 'ZZZ': ")
